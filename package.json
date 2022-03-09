@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/noahfred97/Challenge-14-Fixed/issues"
   },
-  "homepage": "https://github.com/noahfred97/Challenge-14-Fixed#readme"
+  "homepage": "https://github.com/noahfred97/Challenge-14-Fixed#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
