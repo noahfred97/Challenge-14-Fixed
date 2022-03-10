@@ -13,8 +13,6 @@
   ## Table of Contents
   - <a href="#usage">Usage</a>
   - <a href="#contributing">Contributing</a>
-  - <a href="#screenshot">Screenshot</a>
-  - <a href="#questions">Questions</a>
   ## Usage
   ### Log in through dashbar and then you are able to navigate the site.
   ## Contributing
